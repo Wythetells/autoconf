@@ -1,0 +1,2 @@
+# autoconf
+Automatic generation configuration
